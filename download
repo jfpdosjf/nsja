@@ -1,0 +1,7 @@
+.git
+*.md
+!README.md
+env.example
+__pycache__
+*.svg
+preview.png
