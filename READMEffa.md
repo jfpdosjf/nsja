@@ -1,6 +1,8 @@
 /var/lib/pasarguard
 
-
 -------------------
 
-python /code/pasarguard-cli.py generate-temp-key
+CUSTOM_TEMPLATES_DIRECTORY=/var/lib/pasarguard/templates/
+SUBSCRIPTION_PAGE_TEMPLATE=subscription/index.html
+
+
